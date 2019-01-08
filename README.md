@@ -1,2 +1,4 @@
 # Arduino-Wheel-of-Fortune
 This was a project I made for my Arduino class at Forest Hills High School. The project is supposed to resemble the Wheel of Fortune T.V. show, hence the name. To play, you press the green button to start the cycle of LEDs and then press the red button to stop. The money you could win corresponds to the section of whichever LED is lit up after the stop button is pressed. After pressing the stop button you would look on screen and a topic will be shown as well as dashes that represent the mystery word. I have integrated Hangman into this project, so the state of the hangman is shown as well. To win the game, you have to guess the full word correctly and you walk away with however much you won (it could still be 0). You lose the game once you guess incorrectly a total of 7 times, which is when you lose hangman as well.  
+
+![img-8772](https://user-images.githubusercontent.com/43652410/50810591-5a603080-12d8-11e9-8c1f-95fa9ed94ecd.JPG)
